@@ -6,11 +6,11 @@ CarDekho.com is India's leading car search venture that helps users buy cars tha
 Our vision is to construct a complete ecosystem for consumers and car manufacturers, dealers and related businesses such that consumers have easy and complete access to not only buying and selling cars, but also manage their entire ownership experience, be it accessories, tyres, batteries, insurance or roadside assistance.
 
 The columns in the given dataset are as follows:
-•	name
-•	year
-•	selling_price
-•	km_driven
-•	fuel
-•	seller_type
-•	transmission
-•	Owner
+- name
+- year
+-	selling_price
+-	km_driven
+-	fuel
+-	seller_type
+-	transmission
+-	Owner
